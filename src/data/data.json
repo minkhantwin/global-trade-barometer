@@ -1,0 +1,465 @@
+{
+    "us": {
+        "name": "United States",
+        "y2018": [
+            {
+                "month": 1,
+                "trade_index": {
+                    "country": 64,
+                    "air": 65,
+                    "ocean": 64
+                },
+                "sector_development": {
+                    "basic_raw_materials": 83,
+                    "capital_equ_and_mach": 58,
+                    "chemicals_and_products": 52,
+                    "comsumer_fashion_goods": 57,
+                    "high_tech": 65,
+                    "industrial_raw_materials": 52,
+                    "land_vehicles_and_parts": 62,
+                    "machinery_parts": 74,
+                    "personal_and_household_goods": 72,
+                    "temp_or_climate_control": 42
+                }
+            },
+            {
+                "month": 2,
+                "trade_index": {
+                    "country": 65,
+                    "air": 64,
+                    "ocean": 66
+                },
+                "sector_development": {
+                    "basic_raw_materials": 81,
+                    "capital_equ_and_mach": 56,
+                    "chemicals_and_products": 51,
+                    "comsumer_fashion_goods": 55,
+                    "high_tech": 73,
+                    "industrial_raw_materials": 57,
+                    "land_vehicles_and_parts": 53,
+                    "machinery_parts": 76,
+                    "personal_and_household_goods": 71,
+                    "temp_or_climate_control": 41
+                }
+            },
+            {
+                "month": 3,
+                "trade_index": {
+                    "country": 67,
+                    "air": 66,
+                    "ocean": 69
+                },
+                "sector_development": {
+                    "basic_raw_materials": 84,
+                    "capital_equ_and_mach": 63,
+                    "chemicals_and_products": 53,
+                    "comsumer_fashion_goods": 66,
+                    "high_tech": 76,
+                    "industrial_raw_materials": 64,
+                    "land_vehicles_and_parts": 41,
+                    "machinery_parts": 73,
+                    "personal_and_household_goods": 63,
+                    "temp_or_climate_control": 46
+                }
+            }
+        ]
+    },
+
+    "uk": { 
+        "name": "United Kingdom",
+        "y2018": [
+            {
+                "month": 1,
+                "trade_index": {
+                    "country": 63,
+                    "air": 64,
+                    "ocean": 62
+                },
+                "sector_development": {
+                    "basic_raw_materials": 53,
+                    "capital_equ_and_mach": 49,
+                    "chemicals_and_products": 64,
+                    "comsumer_fashion_goods": 65,
+                    "high_tech": 72,
+                    "industrial_raw_materials": 80,
+                    "land_vehicles_and_parts": 78,
+                    "machinery_parts": 69,
+                    "personal_and_household_goods": 55,
+                    "temp_or_climate_control": 36
+                }
+            },
+            {
+                "month": 2,
+                "trade_index": {
+                    "country": 63,
+                    "air": 66,
+                    "ocean": 61
+                },
+                "sector_development": {
+                    "basic_raw_materials": 57,
+                    "capital_equ_and_mach": 57,
+                    "chemicals_and_products": 70,
+                    "comsumer_fashion_goods": 67,
+                    "high_tech": 71,
+                    "industrial_raw_materials": 83,
+                    "land_vehicles_and_parts": 81,
+                    "machinery_parts": 70,
+                    "personal_and_household_goods": 66,
+                    "temp_or_climate_control": 38
+                }
+            },
+            {
+                "month": 3,
+                "trade_index": {
+                    "country": 61,
+                    "air": 62,
+                    "ocean": 60
+                },
+                "sector_development": {
+                    "basic_raw_materials": 52,
+                    "capital_equ_and_mach": 56,
+                    "chemicals_and_products": 77,
+                    "comsumer_fashion_goods": 71,
+                    "high_tech": 50,
+                    "industrial_raw_materials": 82,
+                    "land_vehicles_and_parts": 77,
+                    "machinery_parts": 70,
+                    "personal_and_household_goods": 64,
+                    "temp_or_climate_control": 39
+                }
+            }
+        ]
+    },
+
+
+    "germany": {
+        "name": "Germany",
+        "y2018": [
+            {
+                "month": 1,
+                "trade_index": {
+                    "country": 69,
+                    "air": 80,
+                    "ocean": 59
+                },
+                "sector_development": {
+                    "basic_raw_materials": 59,
+                    "capital_equ_and_mach": 74,
+                    "chemicals_and_products": 74,
+                    "comsumer_fashion_goods": 86,
+                    "high_tech": 82,
+                    "industrial_raw_materials": 47,
+                    "land_vehicles_and_parts": 67,
+                    "machinery_parts": 83,
+                    "personal_and_household_goods": 78,
+                    "temp_or_climate_control": 0
+                }
+            },
+            {
+                "month": 2,
+                "trade_index": {
+                    "country": 67,
+                    "air": 77,
+                    "ocean": 59
+                },
+                "sector_development": {
+                    "basic_raw_materials": 53,
+                    "capital_equ_and_mach": 72,
+                    "chemicals_and_products": 73,
+                    "comsumer_fashion_goods": 90,
+                    "high_tech": 80,
+                    "industrial_raw_materials": 50,
+                    "land_vehicles_and_parts": 70,
+                    "machinery_parts": 80,
+                    "personal_and_household_goods": 70,
+                    "temp_or_climate_control": 0 
+                }
+            },
+            {
+                "month": 3,
+                "trade_index": {
+                    "country": 64,
+                    "air": 71,
+                    "ocean": 58
+                },
+                "sector_development": {
+                    "basic_raw_materials": 59,
+                    "capital_equ_and_mach": 67,
+                    "chemicals_and_products": 73,
+                    "comsumer_fashion_goods": 68,
+                    "high_tech": 77,
+                    "industrial_raw_materials": 52,
+                    "land_vehicles_and_parts": 69,
+                    "machinery_parts": 74,
+                    "personal_and_household_goods": 45,
+                    "temp_or_climate_control": 0
+                }
+            }
+        ]
+    },
+
+    "china": {
+        "name": "China",
+        "y2018": [
+            {
+                "month": 1,
+                "trade_index": {
+                    "country": 59,
+                    "air": 70,
+                    "ocean": 52
+                },
+                "sector_development": {
+                    "basic_raw_materials": 64,
+                    "capital_equ_and_mach": 95,
+                    "chemicals_and_products": 83,
+                    "comsumer_fashion_goods": 45,
+                    "high_tech": 58,
+                    "industrial_raw_materials": 43,
+                    "land_vehicles_and_parts": 75,
+                    "machinery_parts": 77,
+                    "personal_and_household_goods": 65,
+                    "temp_or_climate_control": 69
+                }
+            },
+            {
+                "month": 2,
+                "trade_index": {
+                    "country": 59,
+                    "air": 68,
+                    "ocean": 54
+                },
+                "sector_development": {
+                    "basic_raw_materials": 60,
+                    "capital_equ_and_mach": 97,
+                    "chemicals_and_products": 81,
+                    "comsumer_fashion_goods": 39,
+                    "high_tech": 53,
+                    "industrial_raw_materials": 46,
+                    "land_vehicles_and_parts": 76,
+                    "machinery_parts": 77,
+                    "personal_and_household_goods": 54,
+                    "temp_or_climate_control": 50
+                }
+            },
+            {
+                "month": 3,
+                "trade_index": {
+                    "country": 61,
+                    "air": 71,
+                    "ocean": 55
+                },
+                "sector_development": {
+                    "basic_raw_materials": 54,
+                    "capital_equ_and_mach": 97,
+                    "chemicals_and_products": 85,
+                    "comsumer_fashion_goods": 39,
+                    "high_tech": 51,
+                    "industrial_raw_materials": 56,
+                    "land_vehicles_and_parts": 75,
+                    "machinery_parts": 73,
+                    "personal_and_household_goods": 60,
+                    "temp_or_climate_control": 54
+                }
+            }
+        ]
+    },
+
+    "india": {
+        "name": "India",
+        "y2018": [
+            {
+                "month": 1,
+                "trade_index": {
+                    "country": 84,
+                    "air": 82,
+                    "ocean": 85
+                },
+                "sector_development": {
+                    "basic_raw_materials": 94,
+                    "capital_equ_and_mach": 0,
+                    "chemicals_and_products": 76,
+                    "comsumer_fashion_goods": 60,
+                    "high_tech": 98,
+                    "industrial_raw_materials": 87,
+                    "land_vehicles_and_parts": 69,
+                    "machinery_parts": 90,
+                    "personal_and_household_goods": 74,
+                    "temp_or_climate_control": 97
+                }
+            },
+            {
+                "month": 2,
+                "trade_index": {
+                    "country": 86,
+                    "air": 84,
+                    "ocean": 87
+                },
+                "sector_development": {
+                    "basic_raw_materials": 94,
+                    "capital_equ_and_mach": 0,
+                    "chemicals_and_products": 83,
+                    "comsumer_fashion_goods": 60,
+                    "high_tech": 100,
+                    "industrial_raw_materials": 88,
+                    "land_vehicles_and_parts": 71,
+                    "machinery_parts": 85,
+                    "personal_and_household_goods": 74,
+                    "temp_or_climate_control": 96
+                }
+            },
+            {
+                "month": 3,
+                "trade_index": {
+                    "country": 84,
+                    "air": 82,
+                    "ocean": 85
+                },
+                "sector_development": {
+                    "basic_raw_materials": 93,
+                    "capital_equ_and_mach": 0,
+                    "chemicals_and_products": 81,
+                    "comsumer_fashion_goods": 65,
+                    "high_tech": 100,
+                    "industrial_raw_materials": 84,
+                    "land_vehicles_and_parts": 74,
+                    "machinery_parts": 72,
+                    "personal_and_household_goods": 68,
+                    "temp_or_climate_control": 92
+                }
+            }
+        ]
+    },
+
+    "southKorea": {
+        "name": "South Korea",
+        "y2018": [
+            {
+                "month": 1,
+                "trade_index": {
+                    "country": 65,
+                    "air": 73,
+                    "ocean": 59
+                },
+                "sector_development": {
+                    "basic_raw_materials": 91,
+                    "capital_equ_and_mach": 66,
+                    "chemicals_and_products": 72,
+                    "comsumer_fashion_goods": 35,
+                    "high_tech": 93,
+                    "industrial_raw_materials": 51,
+                    "land_vehicles_and_parts": 50,
+                    "machinery_parts": 70,
+                    "personal_and_household_goods": 94,
+                    "temp_or_climate_control": 73
+                }
+            },
+            {
+                "month": 2,
+                "trade_index": {
+                    "country": 71,
+                    "air": 73,
+                    "ocean": 70
+                },
+                "sector_development": {
+                    "basic_raw_materials": 91,
+                    "capital_equ_and_mach": 73,
+                    "chemicals_and_products": 77,
+                    "comsumer_fashion_goods": 28,
+                    "high_tech": 95,
+                    "industrial_raw_materials": 55,
+                    "land_vehicles_and_parts": 56,
+                    "machinery_parts": 70,
+                    "personal_and_household_goods": 95,
+                    "temp_or_climate_control": 65
+                }
+            },
+            {
+                "month": 3,
+                "trade_index": {
+                    "country": 69,
+                    "air": 67,
+                    "ocean": 70
+                },
+                "sector_development": {
+                    "basic_raw_materials": 87,
+                    "capital_equ_and_mach": 76,
+                    "chemicals_and_products": 80,
+                    "comsumer_fashion_goods": 27,
+                    "high_tech": 91,
+                    "industrial_raw_materials": 62,
+                    "land_vehicles_and_parts": 58,
+                    "machinery_parts": 67,
+                    "personal_and_household_goods": 92,
+                    "temp_or_climate_control": 60
+                }
+            }
+        ]
+    },
+
+    "japan": {
+        "name": "Japan",
+        "y2018": [
+            {
+                "month": 1,
+                "trade_index": {
+                    "country": 68,
+                    "air": 82,
+                    "ocean": 60
+                },
+                "sector_development": {
+                    "basic_raw_materials": 57,
+                    "capital_equ_and_mach": 97,
+                    "chemicals_and_products": 74,
+                    "comsumer_fashion_goods": 98,
+                    "high_tech": 71,
+                    "industrial_raw_materials": 69,
+                    "land_vehicles_and_parts": 66,
+                    "machinery_parts": 73,
+                    "personal_and_household_goods": 67,
+                    "temp_or_climate_control": 63
+                }
+            },
+            {
+                "month": 2,
+                "trade_index": {
+                    "country": 69,
+                    "air": 82,
+                    "ocean": 59
+                },
+                "sector_development": {
+                    "basic_raw_materials": 55,
+                    "capital_equ_and_mach": 97,
+                    "chemicals_and_products": 74,
+                    "comsumer_fashion_goods": 93,
+                    "high_tech": 65,
+                    "industrial_raw_materials": 71,
+                    "land_vehicles_and_parts": 66,
+                    "machinery_parts": 72,
+                    "personal_and_household_goods": 69,
+                    "temp_or_climate_control": 64
+                }
+            },
+            {
+                "month": 3,
+                "trade_index": {
+                    "country": 70,
+                    "air": 82,
+                    "ocean": 61
+                },
+                "sector_development": {
+                    "basic_raw_materials": 56,
+                    "capital_equ_and_mach": 99,
+                    "chemicals_and_products": 67,
+                    "comsumer_fashion_goods": 93,
+                    "high_tech": 60,
+                    "industrial_raw_materials": 77,
+                    "land_vehicles_and_parts": 71,
+                    "machinery_parts": 65,
+                    "personal_and_household_goods": 59,
+                    "temp_or_climate_control": 65
+                }
+            }
+        ]
+    }
+
+}
